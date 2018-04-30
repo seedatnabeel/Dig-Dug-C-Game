@@ -1,0 +1,4 @@
+<map id="sorceress" name="sorceress">
+<area shape="rect" id="node2" href="$classgraphics.html" title="Decoupled graphics class which implements all sfml functionality. " alt="" coords="5,5,165,215"/>
+<area shape="rect" id="node3" href="$classcontrols.html" title="Class which polls for user input and returns booleans to the calling function. " alt="" coords="190,64,290,156"/>
+</map>

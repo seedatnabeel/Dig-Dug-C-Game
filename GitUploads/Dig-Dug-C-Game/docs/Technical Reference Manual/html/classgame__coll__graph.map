@@ -1,0 +1,15 @@
+<map id="game" name="game">
+<area shape="rect" id="node2" href="$classscoring.html" title="Class which stores the scoring (lives and state of sorceress), as well as, sets the text of lives to ..." alt="" coords="5,402,101,538"/>
+<area shape="rect" id="node3" href="$classgraphics.html" title="Decoupled graphics class which implements all sfml functionality. " alt="" coords="711,5,871,215"/>
+<area shape="rect" id="node7" href="$classexplosion.html" title="The class creates a shared pointer to graphics, and then loads in and stores the explosion sprite fro..." alt="" coords="562,373,697,567"/>
+<area shape="rect" id="node8" href="$classgenie.html" title="Class of Genie which has all the attributes and responsbilities of a genie object. " alt="" coords="721,277,861,663"/>
+<area shape="rect" id="node9" href="$classtunnel.html" title="This class loads a pre&#45;set tunnel map and the tunnels Sorceress makes into the tunnel vector..." alt="" coords="885,424,963,516"/>
+<area shape="rect" id="node10" href="$classbackground.html" title="The background class reads in background sprites from memory and stores them as data members..." alt="" coords="1112,321,1253,619"/>
+<area shape="rect" id="node11" href="$classsorceress.html" title="The class initialises and controls movement of the Sorceress sprite. The sprite will move and animate..." alt="" coords="987,292,1088,648"/>
+<area shape="rect" id="node13" href="$classlightning.html" title="Class of Lightining which has all the attributes and responsbilities of a lightning object..." alt="" coords="126,373,277,567"/>
+<area shape="rect" id="node4" href="$classcontrols.html" title="Class which polls for user input and returns booleans to the calling function. " alt="" coords="1210,64,1310,156"/>
+<area shape="rect" id="node5" href="$classcollision.html" title="The class detects and handles the collision between genie and lightning. " alt="" coords="301,424,430,516"/>
+<area shape="rect" id="node6" href="$classkill_srs.html" title="Class which polls collisions between genie and sorceress and then remove life points If all life poin..." alt="" coords="455,424,537,516"/>
+<area shape="rect" id="node12" href="$classmonster_move.html" title="Class which polls the monsters ability to move. If it can move in a tunnel, set ghost mode to false..." alt="" coords="1278,424,1397,516"/>
+<area shape="rect" id="node14" href="$classkill_genie.html" title="Class which erases (i.e. kills genie) should the kill conditions be met. " alt="" coords="1563,424,1659,516"/>
+</map>

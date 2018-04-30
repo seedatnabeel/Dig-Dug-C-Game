@@ -1,0 +1,9 @@
+<map id="graphics" name="graphics">
+<area shape="rect" id="node2" href="$classbackground.html" title="The background class reads in background sprites from memory and stores them as data members..." alt="" coords="5,307,147,604"/>
+<area shape="rect" id="node3" href="$classexplosion.html" title="The class creates a shared pointer to graphics, and then loads in and stores the explosion sprite fro..." alt="" coords="171,358,306,553"/>
+<area shape="rect" id="node4" href="$classgenie.html" title="Class of Genie which has all the attributes and responsbilities of a genie object. " alt="" coords="330,263,470,648"/>
+<area shape="rect" id="node5" href="$classlightning.html" title="Class of Lightining which has all the attributes and responsbilities of a lightning object..." alt="" coords="494,358,645,553"/>
+<area shape="rect" id="node6" href="$classscoring.html" title="Class which stores the scoring (lives and state of sorceress), as well as, sets the text of lives to ..." alt="" coords="669,387,765,523"/>
+<area shape="rect" id="node7" href="$classsorceress.html" title="The class initialises and controls movement of the Sorceress sprite. The sprite will move and animate..." alt="" coords="789,270,904,641"/>
+<area shape="rect" id="node8" href="$classtunnel.html" title="This class loads a pre&#45;set tunnel map and the tunnels Sorceress makes into the tunnel vector..." alt="" coords="928,409,1005,501"/>
+</map>
